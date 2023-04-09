@@ -24,4 +24,4 @@ local Tabs = {
     ['UI Settings'] = Window:AddTab('UI Settings'),
 }
 
-local LeftGroupBox = Tabs.Main:AddLeftGroupbox('UPDATING THIS SCRIPT')
+local LeftGroupBox = Tabs.Main:AddLeftGroupbox('Fixing Bugs, And patches.')
